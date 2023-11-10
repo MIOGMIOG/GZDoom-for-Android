@@ -52,4 +52,4 @@ jobs:
       name: upload APKs
       with:
         name: FreeDoom-android
-        path: build/outputs/
+        path: build/

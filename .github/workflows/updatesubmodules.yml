@@ -1,4 +1,4 @@
-name: Android CI
+name: Update submodules
 
 on:
   workflow_dispatch:

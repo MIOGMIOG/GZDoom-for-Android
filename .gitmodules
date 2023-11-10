@@ -2,7 +2,7 @@
 	path = doom/src/main/jni/MobileTouchControls
 	url = https://github.com/emileb/MobileTouchControls.git
 [submodule "doom/src/main/jni/gzdoom_android/mobile"]
-	path = doom/src/main/jni/gzdoom_android
+	path = doom/src/main/jni/gzdoom_android/mobile
 	url = https://github.com/emileb/gzdoom.git
         branch = freedoom_for_android
 [submodule "doom/src/main/jni/jwzgles"]

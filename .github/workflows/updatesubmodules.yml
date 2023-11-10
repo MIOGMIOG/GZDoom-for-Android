@@ -17,3 +17,6 @@ jobs:
             git config user.name "GitHub Actions Bot"
             git config user.email "<>"
             git submodule update --init --recursive
+            git add .
+            git commit -m "Update submodules"
+            git push https://github.com/MIOGMIOG/Freedoom-for-Android.git
